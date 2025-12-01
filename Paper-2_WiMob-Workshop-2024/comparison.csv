@@ -1,0 +1,5 @@
+Reviewer, Originality, Presentation, Correctness, Recommendation
+Human 1,4,4,4,4
+Human 2,4,4,4,5
+Human 3,4,3,4,3
+LLM,4,4,4,4

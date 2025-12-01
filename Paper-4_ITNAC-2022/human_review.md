@@ -1,7 +1,10 @@
 # Review 1
 
-Orginality	Scientific/Technical Quality	Presentation Quality	Overall Recommendation
-Marginal 2		Marginal 2		    Marginal 2			Reject 2
+- Orginality (Marginal 2)	
+- Scientific/Technical Quality (Marginal 2)	
+- Presentation Quality (Marginal 2)	
+- Overall Recommendation (Reject 2)
+				    			
 
 ## Strengths
 The situation, of a network used for seismic measurements, is interesting and warrants study.
@@ -203,9 +206,10 @@ VI. CONCLUSION
 
 
 # Review 2
-
-Orginality	Scientific/Technical Quality	Presentation Quality	Overall Recommendation
-Excellent 4		Excellent 4		   Excellent 4		    Accept 4
+- Orginality (Excellent 4)	
+- Scientific/Technical Quality (Excellent 4)	
+- Presentation Quality (Excellent 4)	
+- Overall Recommendation (Accept 4) 		    
 
 
 ## Strengths
@@ -223,9 +227,11 @@ Can you please justify the parameter settings in Table 1.
 
 
 # Review 3
-
-Orginality	Scientific/Technical Quality	Presentation Quality	Overall Recommendation
-Average 3		Average 3		   Excellent 4		    Accept if Room 3
+- Orginality (Average 3)	
+- Scientific/Technical Quality (Average 3)	
+- Presentation Quality (Excellent 4)	
+- Overall Recommendation (Accept if Room 3) 	
+		   		    
 
 ## Strengths
 Based on the well-known Bianchi's model, the authors introduced some modifications taking into account certain specifics of wireless geophone networks. 

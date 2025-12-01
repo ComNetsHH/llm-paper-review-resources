@@ -1,4 +1,4 @@
-VN4RRSR 24 review 1
+# VN4RRSR 24 review 1
 
 Policy?: Submission Policy (Does the paper list the same author(s), title and abstract in its PDF file and EDAS registration?)
 
@@ -6,19 +6,19 @@ yes ok
 
 Reviewer Familiarity?: Please assess your familiarity with the subject matter of the paper):
 
-Familiar with this area of research (2)
+- Familiar with this area of research (2)
 
 Technical Contribution: How would you evaluate the technical contribution of the paper?
 
-Above average (4)
+- Above average (4)
 
 Originality/Novelty: How original are the concepts presented in the paper?
 
-Above average (4)
+- Above average (4)
 
 Quality of Presentation: How good is the quality of presentation in the paper?
 
-Above average (4)
+- Above average (4)
 
 Comments: Please justify here your rating of the paper. What are its strengths and weaknesses? Note that these comments will be sent to the authors.
 
@@ -26,9 +26,9 @@ Comments: Please justify here your rating of the paper. What are its strengths a
 
 Overall recommendation: What is your over all recommendation for this paper?
 
-Accept (4)
+- Accept (4)
 
-VN4RRSR 24 review 2
+# VN4RRSR 24 review 2
 
 Policy?: Submission Policy (Does the paper list the same author(s), title and abstract in its PDF file and EDAS registration?)
 
@@ -36,19 +36,19 @@ Yes
 
 Reviewer Familiarity?: Please assess your familiarity with the subject matter of the paper):
 
-Familiar with this area of research (2)
+- Familiar with this area of research (2)
 
 Technical Contribution: How would you evaluate the technical contribution of the paper?
 
-Above average (4)
+- Above average (4)
 
 Originality/Novelty: How original are the concepts presented in the paper?
 
-Above average (4)
+- Above average (4)
 
 Quality of Presentation: How good is the quality of presentation in the paper?
 
-Above average (4)
+- Above average (4)
 
 Comments: Please justify here your rating of the paper. What are its strengths and weaknesses? Note that these comments will be sent to the authors.
 
@@ -60,9 +60,9 @@ No weaknesses of the paper were identified.
 
 Overall recommendation: What is your over all recommendation for this paper?
 
-Strong Accept (5)
+- Strong Accept (5)
 
-VN4RRSR 24 review 3
+# VN4RRSR 24 review 3
 
 Policy?: Submission Policy (Does the paper list the same author(s), title and abstract in its PDF file and EDAS registration?)
 
@@ -70,19 +70,19 @@ yes
 
 Reviewer Familiarity?: Please assess your familiarity with the subject matter of the paper):
 
-Familiar with this area of research (2)
+- Familiar with this area of research (2)
 
 Technical Contribution: How would you evaluate the technical contribution of the paper?
 
-Above average (4)
+- Above average (4)
 
 Originality/Novelty: How original are the concepts presented in the paper?
 
-Above average (4)
+- Above average (4)
 
 Quality of Presentation: How good is the quality of presentation in the paper?
 
-Average (3)
+- Average (3)
 
 Comments: Please justify here your rating of the paper. What are its strengths and weaknesses? Note that these comments will be sent to the authors.
 
@@ -96,4 +96,4 @@ While the paper is robust, there are minor areas that could be improved. A more 
 
 Overall recommendation: What is your over all recommendation for this paper?
 
-Accept (4)
+- Accept (4)

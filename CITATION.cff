@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Supplementary resources for LLM Paper Reviews"
+version: 1.0.0
+authors:
+  - family-names: Kuladinithi
+    given-names: Koojana
+    orcid: https://orcid.org/0000-0001-6083-4048
+  - family-names: Fuger
+    given-names: Konrad
+    orcid: https://orcid.org/0000-0002-8472-1483
+  - family-names: Makama
+    given-names: Aliyu
+    orcid: https://orcid.org/0000-0003-1177-555X
+date-released: 2025-12-01
